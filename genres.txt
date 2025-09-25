@@ -1,0 +1,30 @@
+## Gêneros de Jogos
+
+Os jogos eletrônicos são classificados em diversos gêneros, que ajudam a definir a jogabilidade e a experiência que o jogador terá. Conhecer os gêneros é fundamental para entender a diversidade e a riqueza do universo gamer. Abaixo, listamos alguns dos principais:
+
+### Gêneros Populares
+
+*   **Ação:** Focados em combate, reflexos rápidos e desafios físicos. Subgêneros incluem:
+    *   **FPS (First-Person Shooter):** Jogos de tiro em primeira pessoa, como Counter-Strike e Call of Duty.
+    *   **TPS (Third-Person Shooter):** Jogos de tiro em terceira pessoa, onde o personagem é visível na tela.
+    *   **Beat 'em Up:** Jogos de luta contra múltiplos inimigos, como Streets of Rage.
+
+*   **Aventura:** Enfatizam a exploração, resolução de quebra-cabeças e narrativa. Frequentemente combinados com elementos de ação (Action-Adventure), como The Legend of Zelda.
+
+*   **RPG (Role-Playing Game):** Jogos de interpretação de papéis, onde o jogador controla um personagem e desenvolve suas habilidades, participa de uma história rica e toma decisões que afetam o enredo. Exemplos incluem The Witcher e Final Fantasy.
+    *   **MMORPG (Massively Multiplayer Online Role-Playing Game):** RPGs jogados online com milhares de outros jogadores, como World of Warcraft.
+
+*   **Estratégia:** Exigem planejamento, tomada de decisões táticas e gerenciamento de recursos. Subgêneros:
+    *   **RTS (Real-Time Strategy):** Estratégia em tempo real, como StarCraft.
+    *   **TBS (Turn-Based Strategy):** Estratégia por turnos, como Civilization.
+
+*   **Simulação:** Buscam replicar atividades do mundo real, como pilotar aviões (simuladores de voo), construir cidades (City Builders) ou gerenciar fazendas (simuladores de fazenda).
+
+*   **Esporte:** Simulam esportes reais, como futebol (FIFA, eFootball), basquete (NBA 2K) ou corrida (Forza, Gran Turismo).
+
+*   **Battle Royale:** Gênero onde múltiplos jogadores competem para ser o último sobrevivente em um mapa que encolhe progressivamente, como Fortnite e PUBG.
+
+*   **MOBA (Multiplayer Online Battle Arena):** Duas equipes de jogadores competem para destruir a base inimiga, controlando heróis com habilidades únicas, como League of Legends e Dota 2.
+
+Esta é apenas uma amostra dos muitos gêneros existentes, e muitos jogos combinam elementos de diferentes categorias para criar experiências únicas.
+
